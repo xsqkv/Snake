@@ -1,2 +1,2 @@
 # Snake
-Simple Snake C# Game
+Simple Snake C# Game on WinForms
